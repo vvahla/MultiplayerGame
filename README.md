@@ -1,4 +1,4 @@
-# MultiplayerGame
+# Netcode Multiplayer Game
 
 Unity netcode multiplayer template with basic movement and jumping.
 
